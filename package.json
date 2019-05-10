@@ -1,0 +1,27 @@
+{
+  "name": "sam-test-basic-project",
+  "version": "1.0.0",
+  "description": "A simple backend with a RESTful API endpoint using Amazon API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "init-table": "sh ./bin/create_table.sh",
+    "seed-table": "sh ./bin/seed_data.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "aws-sam-local": "^0.2.11",
+    "aws-sdk": "^2.437.0",
+    "dotenv": "^7.0.0",
+    "uuid": "^3.3.2"
+  }
+}

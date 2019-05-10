@@ -1,0 +1,27 @@
+[
+  {
+    "itemLocation": "Canberra, ACT",
+    "itemName": "Sofa Set",
+    "itemDescription": "A sofa set for sale."
+  },
+  {
+    "itemLocation": "Blacktown, NSW",
+    "itemDescription": "For sale",
+    "itemName": "Watch"
+  },
+  {
+    "itemLocation": "Wiley Park, NSW",
+    "itemDescription": "For sale",
+    "itemName": "Bed Frame"
+  },
+  {
+    "itemLocation": "Sydney CBD, NSW",
+    "itemDescription": "For sale",
+    "itemName": "Shoes"
+  },
+  {
+    "itemLocation": "Lidcombe, NSW",
+    "itemDescription": "A brand new item for sale.",
+    "itemName": "Laptop"
+  }
+]
