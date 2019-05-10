@@ -35,7 +35,7 @@ sam --version  # supposed to show: SAM CLI, version 0.14.2
 Open a terminal and do the followings:
 ```
 git clone
-cd sam-project-api-gateway
+cd sam-aws-api-gateway
 npm install
 ```
 
